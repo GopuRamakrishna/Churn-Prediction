@@ -1,6 +1,5 @@
 joblib
 pandas 
 numpy
-os
 scikit-learn
 xgboost
